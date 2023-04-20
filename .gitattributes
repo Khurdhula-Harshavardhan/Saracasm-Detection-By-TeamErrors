@@ -1,2 +1,4 @@
 *.psd filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
+*.joblib filter=lfs diff=lfs merge=lfs -text
+RF_embeddings.joblib filter=lfs diff=lfs merge=lfs -text
